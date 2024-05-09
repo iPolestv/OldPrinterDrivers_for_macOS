@@ -9,9 +9,9 @@
     cd OldPrinterDrivers_for_macOS
     chmod +x InstallDrivers.sh
     ./InstallDrivers.sh
-### Введите пароль
+
 ***
-#№ Поддерживаемые модели принтеров
+# Поддерживаемые модели принтеров
 
 EPSON ET-14000 Series
 EPSON ET-2500 Series
