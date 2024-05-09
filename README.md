@@ -5,12 +5,12 @@
 ##### В теории должны работать во всех версиях macOS
 ## Установка:
 #### Выполните в терменале:
-    git clone https://github.com/corpnewt/GenSMBIOS
-    cd GenSMBIOS
+    git clone https://github.com/iPolestv/OldPrinterDrivers_for_macOS.git
+    cd OldPrinterDrivers_for_macOS
     chmod +x InstallDrivers.sh
     ./InstallDrivers.sh
 ### Введите пароль
-# 
+***
 #№ Поддерживаемые модели принтеров
 
 EPSON ET-14000 Series
