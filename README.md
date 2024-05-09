@@ -1,13 +1,17 @@
 # OldPrinterDrivers_for_macOS
 #
-Сборник драйверов для macOS для старых моделей принтеров
-В теории должны работать во всех версиях macOS
-#### Установка:
-## Выполните в командной строке: ./InstallDrivers.sh
-[./InstallDrivers.sh] (./InstallDrivers.sh)
+##### Сборник драйверов для macOS для старых моделей принтеров
+***
+##### В теории должны работать во всех версиях macOS
+## Установка:
+#### Выполните в терменале:
+    git clone https://github.com/corpnewt/GenSMBIOS
+    cd GenSMBIOS
+    chmod +x InstallDrivers.sh
+    ./InstallDrivers.sh
 ### Введите пароль
 # 
-# Поддерживаемые модели принтеров
+#№ Поддерживаемые модели принтеров
 
 EPSON ET-14000 Series
 EPSON ET-2500 Series
