@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>pluginPath</key>
+		<string>/Plugins/FaxTransmissionRecord.plugin</string>
+	</dict>
+	<dict>
+		<key>pluginPath</key>
+		<string>/Plugins/FaxCheckConnection.plugin</string>
+	</dict>
+	<dict>
+		<key>pluginPath</key>
+		<string>/Plugins/FaxSettings.plugin</string>
+	</dict>
+	<dict>
+		<key>pluginPath</key>
+		<string>/Plugins/FaxPrinterSpeedDial.plugin</string>
+	</dict>
+	<dict>
+		<key>pluginPath</key>
+		<string>/Plugins/FaxReceive.plugin</string>
+	</dict>
+	<dict>
+		<key>pluginPath</key>
+		<string>/Plugins/FaxSyncContacts.plugin</string>
+	</dict>
+</array>
+</plist>

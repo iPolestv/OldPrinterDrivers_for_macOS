@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LFPSheetBorderlessAutoExpandDrawSourceArea</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<integer>35</integer>
+			<integer>35</integer>
+			<integer>35</integer>
+			<integer>35</integer>
+		</array>
+	</dict>
+	<key>ConsumerRollBorderlessRetainSizeDrawSourceArea</key>
+	<array>
+		<integer>0</integer>
+		<integer>30</integer>
+		<integer>0</integer>
+		<integer>30</integer>
+	</array>
+	<key>LFPRollBorderlessRetainSizeDrawSourceArea</key>
+	<array>
+		<integer>0</integer>
+		<integer>35</integer>
+		<integer>0</integer>
+		<integer>35</integer>
+	</array>
+	<key>LFPRollBorderlessAutoExpandDrawSourceArea</key>
+	<dict>
+		<key>1</key>
+		<array>
+			<integer>35</integer>
+			<integer>35</integer>
+			<integer>35</integer>
+			<integer>35</integer>
+		</array>
+	</dict>
+	<key>ConsumerRollBorderlessAutoExpandDrawSourceArea</key>
+	<dict>
+		<key>2</key>
+		<array>
+			<integer>35</integer>
+			<integer>29</integer>
+			<integer>35</integer>
+			<integer>29</integer>
+		</array>
+	</dict>
+	<key>LFPSheetBorderlessRetainSizeDrawSourceArea</key>
+	<array>
+		<integer>0</integer>
+		<integer>35</integer>
+		<integer>0</integer>
+		<integer>35</integer>
+	</array>
+</dict>
+</plist>

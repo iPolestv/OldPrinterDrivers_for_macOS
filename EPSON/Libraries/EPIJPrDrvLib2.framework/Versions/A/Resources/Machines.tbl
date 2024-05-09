@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<array>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 800</string>
+		<key>PluginName</key>
+		<string>SC800</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MJ-6000C</string>
+		<key>PluginName</key>
+		<string>MJ6000C</string>
+		<key>PrinterName</key>
+		<string>EPSON MJ-6000C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 1520</string>
+		<key>PluginName</key>
+		<string>SC1520</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 1520</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MJ-8000C</string>
+		<key>PluginName</key>
+		<string>MJ8000C</string>
+		<key>PrinterName</key>
+		<string>EPSON MJ-8000C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 3000</string>
+		<key>PluginName</key>
+		<string>SC3000</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 3000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-5000C</string>
+		<key>PluginName</key>
+		<string>PM5000C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-5000C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 5000</string>
+		<key>PluginName</key>
+		<string>SPro5000</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 5000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 850</string>
+		<key>PluginName</key>
+		<string>SC850</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 850</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 740</string>
+		<key>PluginName</key>
+		<string>SC740</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 740</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-770C</string>
+		<key>PluginName</key>
+		<string>PM770C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-770C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 750</string>
+		<key>PluginName</key>
+		<string>SP750</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 750</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-3000C</string>
+		<key>PluginName</key>
+		<string>PM3000C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-3000C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 1200</string>
+		<key>PluginName</key>
+		<string>SP1200</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 1200</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>EM-900C</string>
+		<key>PluginName</key>
+		<string>EM900C</string>
+		<key>PrinterName</key>
+		<string>EPSON EM-900C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 900</string>
+		<key>PluginName</key>
+		<string>SC900</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 900</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-9000C</string>
+		<key>PluginName</key>
+		<string>PM9000C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-9000C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 9000</string>
+		<key>PluginName</key>
+		<string>SPro9000</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 9000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 760</string>
+		<key>PluginName</key>
+		<string>SC760</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 760</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 860</string>
+		<key>PluginName</key>
+		<string>SC860</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 860</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 1160</string>
+		<key>PluginName</key>
+		<string>SC1160</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 1160</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-800C</string>
+		<key>PluginName</key>
+		<string>PM800C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-800C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 870</string>
+		<key>PluginName</key>
+		<string>SP870</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 870</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-3300C</string>
+		<key>PluginName</key>
+		<string>PM3300C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-3300C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 1270</string>
+		<key>PluginName</key>
+		<string>SP1270</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 1270</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-7000C</string>
+		<key>PluginName</key>
+		<string>PM7000C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-7000C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7000</string>
+		<key>PluginName</key>
+		<string>SPro7000</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-760C</string>
+		<key>PluginName</key>
+		<string>PM760C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-760C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 720</string>
+		<key>PluginName</key>
+		<string>SP720</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 720</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-2200C</string>
+		<key>PluginName</key>
+		<string>PM2200C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-2200C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo EX3</string>
+		<key>PluginName</key>
+		<string>SPEX3</string>
+		<key>PrinterName</key>
+		<string>EPSON SP EX3</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MC-5000</string>
+		<key>PluginName</key>
+		<string>MC5000</string>
+		<key>PrinterName</key>
+		<string>EPSON MC-5000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 5500</string>
+		<key>PluginName</key>
+		<string>SPro5500</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 5500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MC-10000</string>
+		<key>PluginName</key>
+		<string>MC10000</string>
+		<key>PrinterName</key>
+		<string>EPSON MC-10000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 10000CF</string>
+		<key>PluginName</key>
+		<string>SPro10000CF</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 10000CF</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-10000</string>
+		<key>PluginName</key>
+		<string>PM10000</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-10000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 10000</string>
+		<key>PluginName</key>
+		<string>SPro10000</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 10000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CC-700</string>
+		<key>PluginName</key>
+		<string>CC700</string>
+		<key>PrinterName</key>
+		<string>EPSON CC-700</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CC-500L</string>
+		<key>PluginName</key>
+		<string>CC500L</string>
+		<key>PrinterName</key>
+		<string>EPSON CC-500L</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-800DC</string>
+		<key>PluginName</key>
+		<string>PM800DC</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-800DC</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 875DC</string>
+		<key>PluginName</key>
+		<string>SP875DC</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 875DC</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MC-2000</string>
+		<key>PluginName</key>
+		<string>MC2000</string>
+		<key>PrinterName</key>
+		<string>EPSON MC-2000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 2000P</string>
+		<key>PluginName</key>
+		<string>SP2000P</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 2000P</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-820C</string>
+		<key>PluginName</key>
+		<string>PM820C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-820C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-820DC</string>
+		<key>PluginName</key>
+		<string>PM820DC</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-820DC</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>EM-930C</string>
+		<key>PluginName</key>
+		<string>EM930C</string>
+		<key>PrinterName</key>
+		<string>EPSON EM-930C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 980</string>
+		<key>PluginName</key>
+		<string>SC980</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 980</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MC-9000</string>
+		<key>PluginName</key>
+		<string>MC9000</string>
+		<key>PrinterName</key>
+		<string>EPSON MC-9000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 9500</string>
+		<key>PluginName</key>
+		<string>SPro9500</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 9500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>MC-7000</string>
+		<key>PluginName</key>
+		<string>MC7000</string>
+		<key>PrinterName</key>
+		<string>EPSON MC-7000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7500</string>
+		<key>PluginName</key>
+		<string>SPro7500</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 880</string>
+		<key>PluginName</key>
+		<string>SC880</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 880</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 680</string>
+		<key>PluginName</key>
+		<string>SC680</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 680</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 777</string>
+		<key>PluginName</key>
+		<string>SC777</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 777</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-780C</string>
+		<key>PluginName</key>
+		<string>PM780C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-780C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 790</string>
+		<key>PluginName</key>
+		<string>SP790</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 790</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 780</string>
+		<key>PluginName</key>
+		<string>SP780</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 780</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CL-700</string>
+		<key>PluginName</key>
+		<string>CL700</string>
+		<key>PrinterName</key>
+		<string>EPSON CL-700</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus COLOR 580</string>
+		<key>PluginName</key>
+		<string>SC580</string>
+		<key>PrinterName</key>
+		<string>EPSON SC 580</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-3500C</string>
+		<key>PluginName</key>
+		<string>PM3500C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-3500C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 1290</string>
+		<key>PluginName</key>
+		<string>SP1290</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 1290</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 1280</string>
+		<key>PluginName</key>
+		<string>SP1280</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 1280</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-900C</string>
+		<key>PluginName</key>
+		<string>PM900C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-900C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-880C</string>
+		<key>PluginName</key>
+		<string>PM880C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-880C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 890</string>
+		<key>PluginName</key>
+		<string>SP890</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 890</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-720C</string>
+		<key>PluginName</key>
+		<string>PM720C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-720C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-790PT</string>
+		<key>PluginName</key>
+		<string>PM790PT</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-790PT</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 895</string>
+		<key>PluginName</key>
+		<string>SP895</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 895</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 785EPX</string>
+		<key>PluginName</key>
+		<string>SP785EPX</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 785EPX</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 875DCS</string>
+		<key>PluginName</key>
+		<string>SP875DCS</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 875DCS</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CL-750</string>
+		<key>PluginName</key>
+		<string>CL750</string>
+		<key>PrinterName</key>
+		<string>EPSON CL-750</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C40</string>
+		<key>PluginName</key>
+		<string>C40Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C40 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-920C</string>
+		<key>PluginName</key>
+		<string>PM920C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-920C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-820C UG</string>
+		<key>PluginName</key>
+		<string>PM820CUG</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-820C UG</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-820DC UG</string>
+		<key>PluginName</key>
+		<string>PM820DCUG</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-820DC UG</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-3300C UG</string>
+		<key>PluginName</key>
+		<string>PM3300CUG</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-3300C UG</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C60</string>
+		<key>PluginName</key>
+		<string>C60Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C60 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-730C</string>
+		<key>PluginName</key>
+		<string>PM730C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-730C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 810</string>
+		<key>PluginName</key>
+		<string>SP810Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP810 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 820</string>
+		<key>PluginName</key>
+		<string>SP820Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP820 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C80</string>
+		<key>PluginName</key>
+		<string>C80Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C80 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C70</string>
+		<key>PluginName</key>
+		<string>C70Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C70 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C50</string>
+		<key>PluginName</key>
+		<string>C50Seriese</string>
+		<key>PrinterName</key>
+		<string>EPSON C50 Seriese</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-780CS</string>
+		<key>PluginName</key>
+		<string>PM780CS</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-780CS</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-950C</string>
+		<key>PluginName</key>
+		<string>PM950C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-950C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 950</string>
+		<key>PluginName</key>
+		<string>SP950</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 950</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 960</string>
+		<key>PluginName</key>
+		<string>SP960</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 960</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-830C</string>
+		<key>PluginName</key>
+		<string>PM830C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-830C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-890C</string>
+		<key>PluginName</key>
+		<string>PM890C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-890C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CC-550L</string>
+		<key>PluginName</key>
+		<string>CC550L</string>
+		<key>PrinterName</key>
+		<string>EPSON CC-550L</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-4000PX</string>
+		<key>PluginName</key>
+		<string>PM4000PX</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-4000PX</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 2100</string>
+		<key>PluginName</key>
+		<string>SP2100</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 2100</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 2200</string>
+		<key>PluginName</key>
+		<string>SP2200</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 2200</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-850PT</string>
+		<key>PluginName</key>
+		<string>PM850PT</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-850PT</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 925</string>
+		<key>PluginName</key>
+		<string>SP925</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 925</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-7000</string>
+		<key>PluginName</key>
+		<string>PX7000</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-7000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7600</string>
+		<key>PluginName</key>
+		<string>SPro7600</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7600</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-9000</string>
+		<key>PluginName</key>
+		<string>PX9000</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-9000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 9600</string>
+		<key>PluginName</key>
+		<string>SPro9600</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 9600</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CL-760</string>
+		<key>PluginName</key>
+		<string>CL760</string>
+		<key>PrinterName</key>
+		<string>EPSON CL-760</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C42</string>
+		<key>PluginName</key>
+		<string>C42Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C42 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C41</string>
+		<key>PluginName</key>
+		<string>C41Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C41 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-740C</string>
+		<key>PluginName</key>
+		<string>PM740C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-740C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 830</string>
+		<key>PluginName</key>
+		<string>SP830Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP830 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C62</string>
+		<key>PluginName</key>
+		<string>C62Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C62 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C61</string>
+		<key>PluginName</key>
+		<string>C61Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C61 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-840C</string>
+		<key>PluginName</key>
+		<string>PM840C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-840C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-V700</string>
+		<key>PluginName</key>
+		<string>PXV700</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-V700</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C82</string>
+		<key>PluginName</key>
+		<string>C82Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C82 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 915</string>
+		<key>PluginName</key>
+		<string>SP915</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 915</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 825</string>
+		<key>PluginName</key>
+		<string>SP825</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 825</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 895EX</string>
+		<key>PluginName</key>
+		<string>SP895EX</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 895EX</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-10000</string>
+		<key>PluginName</key>
+		<string>PX10000</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-10000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 10600UC</string>
+		<key>PluginName</key>
+		<string>SPro10600UC</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 10600UC</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7600-DYE</string>
+		<key>PluginName</key>
+		<string>SPro7600-DYE</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7600-DYE</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 9600-DYE</string>
+		<key>PluginName</key>
+		<string>SPro9600-DYE</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 9600-DYE</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CC-600PX</string>
+		<key>PluginName</key>
+		<string>CC600PX</string>
+		<key>PrinterName</key>
+		<string>EPSON CC-600PX</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX5200</string>
+		<key>PluginName</key>
+		<string>CX5200</string>
+		<key>PrinterName</key>
+		<string>EPSON CX5200</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX5100</string>
+		<key>PluginName</key>
+		<string>CX5100</string>
+		<key>PrinterName</key>
+		<string>EPSON CX5100</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>CC-570L</string>
+		<key>PluginName</key>
+		<string>CC570L</string>
+		<key>PrinterName</key>
+		<string>EPSON CC-570L</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX3200</string>
+		<key>PluginName</key>
+		<string>CX3200</string>
+		<key>PrinterName</key>
+		<string>EPSON CX3200</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX3100</string>
+		<key>PluginName</key>
+		<string>CX3100</string>
+		<key>PrinterName</key>
+		<string>EPSON CX3100</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 10600CF</string>
+		<key>PluginName</key>
+		<string>SPro10600CF</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 10600CF</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 10600DYE</string>
+		<key>PluginName</key>
+		<string>SPro10600DYE</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 10600DYE</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-870C</string>
+		<key>PluginName</key>
+		<string>PM870C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-870C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 900</string>
+		<key>PluginName</key>
+		<string>SP900</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 900</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-970C</string>
+		<key>PluginName</key>
+		<string>PM970C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-970C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-860PT</string>
+		<key>PluginName</key>
+		<string>PM860PT</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-860PT</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 935</string>
+		<key>PluginName</key>
+		<string>SP935</string>
+		<key>PrinterName</key>
+		<string>EPSON SP 935</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-930C</string>
+		<key>PluginName</key>
+		<string>PM930C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-930C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-3700C</string>
+		<key>PluginName</key>
+		<string>PM3700C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-3700C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-6000</string>
+		<key>PluginName</key>
+		<string>PX6000</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-6000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 4000</string>
+		<key>PluginName</key>
+		<string>SPro4000</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 4000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-740DU</string>
+		<key>PluginName</key>
+		<string>PM740DU</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-740DU</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo 830U</string>
+		<key>PluginName</key>
+		<string>SP830USeries</string>
+		<key>PrinterName</key>
+		<string>EPSON SP830U Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>BX-1000</string>
+		<key>PluginName</key>
+		<string>BX1000</string>
+		<key>PrinterName</key>
+		<string>EPSON BX-1000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>AcuPro C200</string>
+		<key>PluginName</key>
+		<string>AcuProC200</string>
+		<key>PrinterName</key>
+		<string>EPSON AcuPro C200</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C44</string>
+		<key>PluginName</key>
+		<string>C44Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C44 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C43</string>
+		<key>PluginName</key>
+		<string>C43Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C43 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-V500</string>
+		<key>PluginName</key>
+		<string>PXV500</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-V500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C64</string>
+		<key>PluginName</key>
+		<string>C64Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C64 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C63</string>
+		<key>PluginName</key>
+		<string>C63Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C63 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-V600</string>
+		<key>PluginName</key>
+		<string>PXV600</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-V600</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C84</string>
+		<key>PluginName</key>
+		<string>C84Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C84 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C83</string>
+		<key>PluginName</key>
+		<string>C83Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C83 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-980C</string>
+		<key>PluginName</key>
+		<string>PM980C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-980C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-940C</string>
+		<key>PluginName</key>
+		<string>PM940C</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-940C</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R100</string>
+		<key>PluginName</key>
+		<string>SPR100Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R100 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R110</string>
+		<key>PluginName</key>
+		<string>SPR110Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R110 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-A850</string>
+		<key>PluginName</key>
+		<string>PMA850</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-A850</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX600</string>
+		<key>PluginName</key>
+		<string>SPRX600Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX600 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX610</string>
+		<key>PluginName</key>
+		<string>SPRX610Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX610 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX500</string>
+		<key>PluginName</key>
+		<string>SPRX500Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX500 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX510</string>
+		<key>PluginName</key>
+		<string>SPRX510Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX510 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX5400</string>
+		<key>PluginName</key>
+		<string>CX5400</string>
+		<key>PrinterName</key>
+		<string>EPSON CX5400</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX5300</string>
+		<key>PluginName</key>
+		<string>CX5300</string>
+		<key>PrinterName</key>
+		<string>EPSON CX5300</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-A650</string>
+		<key>PluginName</key>
+		<string>PXA650</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-A650</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX6400</string>
+		<key>PluginName</key>
+		<string>CX6400</string>
+		<key>PrinterName</key>
+		<string>EPSON CX6400</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX6300</string>
+		<key>PluginName</key>
+		<string>CX6300</string>
+		<key>PrinterName</key>
+		<string>EPSON CX6300</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-G700</string>
+		<key>PluginName</key>
+		<string>PMG700</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-G700</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R200</string>
+		<key>PluginName</key>
+		<string>SPR200Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R200 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R210</string>
+		<key>PluginName</key>
+		<string>SPR210Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R210 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-D750</string>
+		<key>PluginName</key>
+		<string>PMD750</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-D750</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-D1000</string>
+		<key>PluginName</key>
+		<string>PMD1000</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-D1000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R300</string>
+		<key>PluginName</key>
+		<string>SPR300Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R300 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R310</string>
+		<key>PluginName</key>
+		<string>SPR310Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R310 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-G800</string>
+		<key>PluginName</key>
+		<string>PMG800</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-G800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-G900</string>
+		<key>PluginName</key>
+		<string>PXG900</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-G900</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R200</string>
+		<key>PluginName</key>
+		<string>SPR200Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R200 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R210</string>
+		<key>PluginName</key>
+		<string>SPR210Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R210 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R800</string>
+		<key>PluginName</key>
+		<string>SPR800</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>E-100</string>
+		<key>PluginName</key>
+		<string>E100</string>
+		<key>PrinterName</key>
+		<string>EPSON E-100</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PictureMate</string>
+		<key>PluginName</key>
+		<string>PictureMate</string>
+		<key>PrinterName</key>
+		<string>EPSON PictureMate</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C65</string>
+		<key>PluginName</key>
+		<string>C65Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C65 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C86</string>
+		<key>PluginName</key>
+		<string>C86Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C86 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus C85</string>
+		<key>PluginName</key>
+		<string>C85Series</string>
+		<key>PrinterName</key>
+		<string>EPSON C85 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX6600</string>
+		<key>PluginName</key>
+		<string>CX6600Series</string>
+		<key>PrinterName</key>
+		<string>EPSON CX6600 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX6500</string>
+		<key>PluginName</key>
+		<string>CX6500Series</string>
+		<key>PrinterName</key>
+		<string>EPSON CX6500 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX4500</string>
+		<key>PluginName</key>
+		<string>CX4500</string>
+		<key>PrinterName</key>
+		<string>EPSON CX4500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX4600</string>
+		<key>PluginName</key>
+		<string>CX4600</string>
+		<key>PrinterName</key>
+		<string>EPSON CX4600</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX3500</string>
+		<key>PluginName</key>
+		<string>CX3500</string>
+		<key>PrinterName</key>
+		<string>EPSON CX3500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus CX3600</string>
+		<key>PluginName</key>
+		<string>CX3600Series</string>
+		<key>PrinterName</key>
+		<string>EPSON CX3600 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX420</string>
+		<key>PluginName</key>
+		<string>SPRX420Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX420 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX430</string>
+		<key>PluginName</key>
+		<string>SPRX430Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX430 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-D770</string>
+		<key>PluginName</key>
+		<string>PMD770</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-D770</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-G720</string>
+		<key>PluginName</key>
+		<string>PMG720</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-G720</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R320</string>
+		<key>PluginName</key>
+		<string>SPR320Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R320 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-A700</string>
+		<key>PluginName</key>
+		<string>PMA700</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-A700</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-A870</string>
+		<key>PluginName</key>
+		<string>PMA870</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-A870</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-A550</string>
+		<key>PluginName</key>
+		<string>PXA550</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-A550</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX620</string>
+		<key>PluginName</key>
+		<string>SPRX620Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX620 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX630</string>
+		<key>PluginName</key>
+		<string>SPRX630Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX630 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-A900</string>
+		<key>PluginName</key>
+		<string>PMA900</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-A900</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-G920</string>
+		<key>PluginName</key>
+		<string>PXG920</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-G920</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-G5000</string>
+		<key>PluginName</key>
+		<string>PXG5000</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-G5000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PM-G820</string>
+		<key>PluginName</key>
+		<string>PMG820</string>
+		<key>PrinterName</key>
+		<string>EPSON PM-G820</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 4800</string>
+		<key>PluginName</key>
+		<string>SPro4800</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 4800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 4400</string>
+		<key>PluginName</key>
+		<string>SPro4400</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 4400</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-6500</string>
+		<key>PluginName</key>
+		<string>PX6500</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-6500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-6200S</string>
+		<key>PluginName</key>
+		<string>PX6200S</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-6200S</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7000</string>
+		<key>PluginName</key>
+		<string>SPro7000</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7000</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R1800</string>
+		<key>PluginName</key>
+		<string>SPR1800</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R1800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7800</string>
+		<key>PluginName</key>
+		<string>SPro7800</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 9800</string>
+		<key>PluginName</key>
+		<string>SPro9800</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 9800</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 7400</string>
+		<key>PluginName</key>
+		<string>SPro7400</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 7400</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Pro 9400</string>
+		<key>PluginName</key>
+		<string>SPro9400</string>
+		<key>PrinterName</key>
+		<string>EPSON SPro 9400</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-7500</string>
+		<key>PluginName</key>
+		<string>PX7500</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-7500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-9500</string>
+		<key>PluginName</key>
+		<string>PX9500</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-9500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-9500S</string>
+		<key>PluginName</key>
+		<string>PX9500S</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-9500S</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-7500S</string>
+		<key>PluginName</key>
+		<string>PX7500S</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-7500S</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PictureMate Deluxe</string>
+		<key>PluginName</key>
+		<string>PictureMateDX</string>
+		<key>PrinterName</key>
+		<string>EPSON PictureMate DX</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PictureMate 500</string>
+		<key>PluginName</key>
+		<string>PictureMate500</string>
+		<key>PrinterName</key>
+		<string>EPSON PictureMate 500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>PX-5500</string>
+		<key>PluginName</key>
+		<string>PX5500</string>
+		<key>PrinterName</key>
+		<string>EPSON PX-5500</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo R2400</string>
+		<key>PluginName</key>
+		<string>SPR2400</string>
+		<key>PrinterName</key>
+		<string>EPSON SP R2400</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>Stylus Photo RX700</string>
+		<key>PluginName</key>
+		<string>SPRX700Series</string>
+		<key>PrinterName</key>
+		<string>EPSON SP RX700 Series</string>
+	</dict>
+	<dict>
+		<key>ModelName</key>
+		<string>E-200</string>
+		<key>PluginName</key>
+		<string>E200</string>
+		<key>PrinterName</key>
+		<string>EPSON E-200</string>
+	</dict>
+	</array>
+</plist>

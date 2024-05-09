@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Order</key>
+	<array>
+		<dict>
+			<key>Value</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>Range</key>
+	<array>
+		<dict>
+			<key>Order</key>
+			<array>
+				<dict>
+					<key>PICSettings</key>
+					<array>
+						<dict>
+							<key>SettingName</key>
+							<string>Source</string>
+							<key>SettingValue</key>
+							<integer>2</integer>
+						</dict>
+					</array>
+					<key>Value</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+			<key>Relation</key>
+			<array>
+				<integer>2</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>Order</key>
+			<array>
+				<dict>
+					<key>PICSettings</key>
+					<array>
+						<dict>
+							<key>SettingName</key>
+							<string>Source</string>
+							<key>SettingValue</key>
+							<integer>3</integer>
+						</dict>
+					</array>
+					<key>Value</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+			<key>Relation</key>
+			<array>
+				<integer>3</integer>
+			</array>
+		</dict>
+	</array>
+	<key>Relation</key>
+	<array>
+		<string>Source</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FaxRecvList</key>
+	<array>
+		<dict>
+			<key>Product</key>
+			<string>EP-903F</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>PX-603F</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>PX-673F</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Artisan 830</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson ME OFFICE 620F</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson ME OFFICE 960FWD</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office BX305</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office BX320FW</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office BX620FWD</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office BX925</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office TX320F</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office TX525FW</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Office TX620FWD</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus Photo PX820FWD</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>Epson Stylus SX620FW</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>TX320 WorkForce320</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>TX820 Artisan830</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>WorkForce 320</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>WorkForce 520</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>WorkForce 630</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>Product</key>
+			<string>WorkForce 840</string>
+			<key>Support</key>
+			<string>1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

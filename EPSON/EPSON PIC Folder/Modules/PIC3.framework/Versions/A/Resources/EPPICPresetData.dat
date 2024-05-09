@@ -1,0 +1,1186 @@
+[Header]
+FileType=1
+FileVersion=6.5
+Location=1
+
+
+[PRESET_1]
+PresetID=1
+PresetName="ハガキ(宛名面)"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=100,7,115
+#endif
+#if WIN32
+MediaID=340,320,1
+#else
+MediaID=125,80,59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=10
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=1,2
+#if WIN32
+ResourceOffset=7
+#endif
+
+
+
+
+[PRESET_2]
+PresetID=2
+PresetName="郵便ハガキ(通信面)"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=320,1
+#else
+MediaID=59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if WIN32
+ResourceOffset=8
+#endif
+
+
+
+
+[PRESET_3]
+PresetID=3
+PresetName="郵便ハガキ(インクジェット紙)(通信面)"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=319,326,271,327,274,260
+#else
+MediaID=58,67,12,68,14,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if WIN32
+ResourceOffset=9
+#endif
+
+
+
+
+[PRESET_4]
+PresetID=4
+PresetName="写真用紙<絹目調>ハガキ(通信面)"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=329,275,275,325,272
+#else
+MediaID=66,15,15,65,13
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if WIN32
+ResourceOffset=10
+#endif
+
+
+
+
+[PRESET_6]
+PresetID=6
+PresetName="フォト・クオリティ・カード2(通信面)"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=317,258,258
+#else
+MediaID=57,3,3
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if WIN32
+ResourceOffset=11
+#endif
+
+
+
+
+[PRESET_7]
+PresetID=7
+PresetName="スーパーファイン専用ハガキ(通信面)"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=343,318,264,260
+#else
+MediaID=82,56,20,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if WIN32
+ResourceOffset=12
+#endif
+
+
+
+
+[PRESET_9]
+PresetID=9
+PresetName="郵便光沢ハガキ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=356
+#else
+MediaID=95
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if WIN32
+ResourceOffset=13
+#endif
+
+
+
+
+[PRESET_150]
+PresetID=150
+PresetName="CD/DVDレーベル"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=283
+#else
+MediaID=26
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=0
+#endif
+
+
+
+
+[PRESET_151]
+PresetID=151
+PresetName="高画質対応CD/DVDレーベル"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=335
+#else
+MediaID=76
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=1
+#endif
+
+
+
+
+[PRESET_155]
+PresetID=155
+PresetName="CD/DVDレーベル <フォトブラック>"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=385
+#else
+MediaID=127
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=3
+#endif
+
+
+
+
+[PRESET_156]
+PresetID=156
+PresetName="高画質対応CD/DVDレーベル <フォトブラック>"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=386
+#else
+MediaID=128
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=4
+#endif
+
+
+
+
+[PRESET_161]
+PresetID=161
+PresetName="Print CD Test Page"
+PresetType=1000
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=1
+#else
+MediaID=0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+CodeNo="0x0010"
+#if WIN32
+ResourceOffset=2
+#endif
+
+
+
+
+[PRESET_170]
+PresetID=170
+PresetName="ディスクレーベル"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=283
+#else
+MediaID=132
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+
+
+
+
+[PRESET_171]
+PresetID=171
+PresetName="高画質対応ディスクレーベル"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=335
+#else
+MediaID=133
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+
+
+
+
+[PRESET_301]
+PresetID=301
+PresetName="ハガキ(宛名面)-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=340,320,1
+#else
+MediaID=125,80,59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=10
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_302]
+PresetID=302
+PresetName="ハガキ(宛名面)-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=340,320,1
+#else
+MediaID=125,80,59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=10
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_311]
+PresetID=311
+PresetName="郵便ハガキ(通信面)-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=320,1
+#else
+MediaID=59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_312]
+PresetID=312
+PresetName="郵便ハガキ(通信面)-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=320,1
+#else
+MediaID=59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_321]
+PresetID=321
+PresetName="郵便ハガキ(インクジェット紙)(通信面)-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=319,326,271,327,274,260
+#else
+MediaID=58,67,12,68,14,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_322]
+PresetID=322
+PresetName="郵便ハガキ(インクジェット紙)(通信面)-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=319,326,271,327,274,260
+#else
+MediaID=58,67,12,68,14,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_331]
+PresetID=331
+PresetName="写真用紙<絹目調>ハガキ(通信面)-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=329,275,275,325,272
+#else
+MediaID=66,15,15,65,13
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_332]
+PresetID=332
+PresetName="写真用紙<絹目調>ハガキ(通信面)-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=329,275,275,325,272
+#else
+MediaID=66,15,15,65,13
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_341]
+PresetID=341
+PresetName="フォト・クオリティ・カード2(通信面)-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=317,258,258
+#else
+MediaID=57,3,3
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_342]
+PresetID=342
+PresetName="フォト・クオリティ・カード2(通信面)-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=317,258,258
+#else
+MediaID=57,3,3
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_351]
+PresetID=351
+PresetName="スーパーファイン専用ハガキ(通信面)-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=343,318,264,260
+#else
+MediaID=82,56,20,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_352]
+PresetID=352
+PresetName="スーパーファイン専用ハガキ(通信面)-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=343,318,264,260
+#else
+MediaID=82,56,20,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_361]
+PresetID=361
+PresetName="郵便光沢ハガキ-上トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=356
+#else
+MediaID=95
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=9,3
+#endif
+
+
+
+
+[PRESET_362]
+PresetID=362
+PresetName="郵便光沢ハガキ-下トレイ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=356
+#else
+MediaID=95
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=8,4
+#endif
+
+
+
+
+[PRESET_401]
+PresetID=401
+PresetName="ハガキ(宛名面)-背面オートシートフィーダ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=340,320,1
+#else
+MediaID=80,59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=10
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if MACOSX
+FeedSource=1
+#endif
+
+
+
+
+[PRESET_402]
+PresetID=402
+PresetName="ハガキ(宛名面)-前面用紙カセット"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=340,320,1
+#else
+MediaID=80,59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=10
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if MACOSX
+FeedSource=3
+#endif
+
+
+
+
+[PRESET_411]
+PresetID=411
+PresetName="郵便ハガキ(通信面)-背面オートシートフィーダ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=320,1
+#else
+MediaID=59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=1
+#endif
+
+
+
+
+[PRESET_412]
+PresetID=412
+PresetName="郵便ハガキ(通信面)-前面用紙カセット"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=320,1
+#else
+MediaID=59,0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=3
+#endif
+
+
+
+
+[PRESET_421]
+PresetID=421
+PresetName="郵便ハガキ(インクジェット紙)(通信面)-背面オートシートフィーダ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=319,326,271,327,274,260
+#else
+MediaID=58,67,12,68,14,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=1
+#endif
+
+
+
+
+[PRESET_422]
+PresetID=422
+PresetName="郵便ハガキ(インクジェット紙)(通信面)-前面用紙カセット"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=319,326,271,327,274,260
+#else
+MediaID=58,67,12,68,14,2
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=3
+#endif
+
+
+
+
+[PRESET_431]
+PresetID=431
+PresetName="写真用紙<絹目調>ハガキ(通信面)-背面オートシートフィーダ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=329,275,275,325,272
+#else
+MediaID=66,15,15,65,13
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=1
+#endif
+
+
+
+
+[PRESET_432]
+PresetID=432
+PresetName="写真用紙<絹目調>ハガキ(通信面)-前面用紙カセット"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=329,275,275,325,272
+#else
+MediaID=66,15,15,65,13
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=3
+#endif
+
+
+
+
+[PRESET_441]
+PresetID=441
+PresetName="フォト・クオリティ・カード2(通信面)-背面オートシートフィーダ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=317,258,258
+#else
+MediaID=57,3,3
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=1
+#endif
+
+
+
+
+[PRESET_442]
+PresetID=442
+PresetName="フォト・クオリティ・カード2(通信面)-前面用紙カセット"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=317,258,258
+#else
+MediaID=57,3,3
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=3
+#endif
+
+
+
+
+[PRESET_461]
+PresetID=461
+PresetName="郵便光沢ハガキ-背面オートシートフィーダ"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=263
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=356
+#else
+MediaID=95
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=1
+#endif
+
+
+
+
+[PRESET_462]
+PresetID=462
+PresetName="郵便光沢ハガキ-前面用紙カセット"
+PresetType=1
+ColorSetting=1
+#if WIN32
+PaperID=318
+#else
+PaperID=7,115
+#endif
+#if WIN32
+MediaID=356
+#else
+MediaID=95
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=4,3,2,1
+#if MACOSX
+FeedSource=3
+#endif
+
+
+
+
+[PRESET_999]
+PresetID=999
+PresetName="A0+ OHP Photo Print"
+PresetType=3
+ColorSetting=1
+#if WIN32
+PaperID=604
+#else
+PaperID=56
+#endif
+#if WIN32
+MediaID=2
+#else
+MediaID=5
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=0
+#endif

@@ -1,0 +1,97 @@
+[Header]
+FileType=1
+FileVersion=3.1
+Location=3
+
+
+[PicPresetList]
+150="PRESET_150"
+151="PRESET_151"
+161="PRESET_161"
+
+
+
+[PRESET_150]
+PresetID=150
+PresetName="Epson Direct CD Print"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=283
+#else
+MediaID=26
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=0
+#endif
+
+
+
+
+[PRESET_151]
+PresetID=151
+PresetName="Epson Direct CD Print (Premium Surface)"
+PresetType=4
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=335
+#else
+MediaID=76
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=1
+#endif
+
+
+
+
+[PRESET_161]
+PresetID=161
+PresetName="Print CD Test Page"
+PresetType=1000
+ColorSetting=1
+#if WIN32
+PaperID=9
+#else
+PaperID=1
+#endif
+#if WIN32
+MediaID=1
+#else
+MediaID=0
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+CodeNo="0x0010"
+#if WIN32
+ResourceOffset=2
+#endif

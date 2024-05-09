@@ -1,0 +1,544 @@
+*EPIJUIType: "AppleUI_WW"
+
+*EPIJPrinterCategory: "Consumer"
+
+*EPIJPICPresetList: "999"
+
+*% Initialize DataManager via Opener ===================
+*OpenUI *EPIJ_DoneOpnr/Initialize DataManager via Opener: PickOne
+*OrderDependency: 1000 AnySetup *EPIJ_DoneOpnr
+*DefaultEPIJ_DoneOpnr: 0
+*EPIJ_DoneOpnr 0/: ""
+*EPIJ_DoneOpnr 1/: ""
+*nl.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*fr.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*de.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*it.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*ja.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*pt.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*pt_PT.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*es.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*da.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*fi.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*no.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*sv.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*pl.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*ko.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*zh_TW.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*zh_CN.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*ru.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*ar.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*th.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*tr.Translation EPIJ_DoneOpnr/Initialize DataManager via Opener: ""
+*nl.EPIJ_DoneOpnr 0/: ""
+*nl.EPIJ_DoneOpnr 1/: ""
+*fr.EPIJ_DoneOpnr 0/: ""
+*fr.EPIJ_DoneOpnr 1/: ""
+*de.EPIJ_DoneOpnr 0/: ""
+*de.EPIJ_DoneOpnr 1/: ""
+*it.EPIJ_DoneOpnr 0/: ""
+*it.EPIJ_DoneOpnr 1/: ""
+*ja.EPIJ_DoneOpnr 0/: ""
+*ja.EPIJ_DoneOpnr 1/: ""
+*pt.EPIJ_DoneOpnr 0/: ""
+*pt.EPIJ_DoneOpnr 1/: ""
+*pt_PT.EPIJ_DoneOpnr 0/: ""
+*pt_PT.EPIJ_DoneOpnr 1/: ""
+*es.EPIJ_DoneOpnr 0/: ""
+*es.EPIJ_DoneOpnr 1/: ""
+*da.EPIJ_DoneOpnr 0/: ""
+*da.EPIJ_DoneOpnr 1/: ""
+*fi.EPIJ_DoneOpnr 0/: ""
+*fi.EPIJ_DoneOpnr 1/: ""
+*no.EPIJ_DoneOpnr 0/: ""
+*no.EPIJ_DoneOpnr 1/: ""
+*sv.EPIJ_DoneOpnr 0/: ""
+*sv.EPIJ_DoneOpnr 1/: ""
+*pl.EPIJ_DoneOpnr 0/: ""
+*pl.EPIJ_DoneOpnr 1/: ""
+*ko.EPIJ_DoneOpnr 0/: ""
+*ko.EPIJ_DoneOpnr 1/: ""
+*zh_TW.EPIJ_DoneOpnr 0/: ""
+*zh_TW.EPIJ_DoneOpnr 1/: ""
+*zh_CN.EPIJ_DoneOpnr 0/: ""
+*zh_CN.EPIJ_DoneOpnr 1/: ""
+*ru.EPIJ_DoneOpnr 0/: ""
+*ru.EPIJ_DoneOpnr 1/: ""
+*ar.EPIJ_DoneOpnr 0/: ""
+*ar.EPIJ_DoneOpnr 1/: ""
+*th.EPIJ_DoneOpnr 0/: ""
+*th.EPIJ_DoneOpnr 1/: ""
+*tr.EPIJ_DoneOpnr 0/: ""
+*tr.EPIJ_DoneOpnr 1/: ""
+*CloseUI: *EPIJ_DoneOpnr
+
+*% Print Settings Alert Message ===================
+*OpenUI *EPIJ_PrStgAlK/Alert: PickOne
+*OrderDependency: 170 AnySetup *EPIJ_PrStgAlK
+*DefaultEPIJ_PrStgAlK: 0
+*EPIJ_PrStgAlK 0/: ""
+*nl.Translation EPIJ_PrStgAlK/Alert: ""
+*fr.Translation EPIJ_PrStgAlK/Alert: ""
+*de.Translation EPIJ_PrStgAlK/Alert: ""
+*it.Translation EPIJ_PrStgAlK/Alert: ""
+*ja.Translation EPIJ_PrStgAlK/Alert: ""
+*pt.Translation EPIJ_PrStgAlK/Alert: ""
+*pt_PT.Translation EPIJ_PrStgAlK/Alert: ""
+*es.Translation EPIJ_PrStgAlK/Alert: ""
+*da.Translation EPIJ_PrStgAlK/Alert: ""
+*fi.Translation EPIJ_PrStgAlK/Alert: ""
+*no.Translation EPIJ_PrStgAlK/Alert: ""
+*sv.Translation EPIJ_PrStgAlK/Alert: ""
+*pl.Translation EPIJ_PrStgAlK/Alert: ""
+*ko.Translation EPIJ_PrStgAlK/Alert: ""
+*zh_TW.Translation EPIJ_PrStgAlK/Alert: ""
+*zh_CN.Translation EPIJ_PrStgAlK/Alert: ""
+*ru.Translation EPIJ_PrStgAlK/Alert: ""
+*ar.Translation EPIJ_PrStgAlK/Alert: ""
+*th.Translation EPIJ_PrStgAlK/Alert: ""
+*tr.Translation EPIJ_PrStgAlK/Alert: ""
+*nl.EPIJ_PrStgAlK 0/: ""
+*fr.EPIJ_PrStgAlK 0/: ""
+*de.EPIJ_PrStgAlK 0/: ""
+*it.EPIJ_PrStgAlK 0/: ""
+*ja.EPIJ_PrStgAlK 0/: ""
+*pt.EPIJ_PrStgAlK 0/: ""
+*pt_PT.EPIJ_PrStgAlK 0/: ""
+*es.EPIJ_PrStgAlK 0/: ""
+*da.EPIJ_PrStgAlK 0/: ""
+*fi.EPIJ_PrStgAlK 0/: ""
+*no.EPIJ_PrStgAlK 0/: ""
+*sv.EPIJ_PrStgAlK 0/: ""
+*pl.EPIJ_PrStgAlK 0/: ""
+*ko.EPIJ_PrStgAlK 0/: ""
+*zh_TW.EPIJ_PrStgAlK 0/: ""
+*zh_CN.EPIJ_PrStgAlK 0/: ""
+*ru.EPIJ_PrStgAlK 0/: ""
+*ar.EPIJ_PrStgAlK 0/: ""
+*th.EPIJ_PrStgAlK 0/: ""
+*tr.EPIJ_PrStgAlK 0/: ""
+*CloseUI: *EPIJ_PrStgAlK
+
+*% APF Preview Image ===================
+*OpenUI *EPIJ_APFPrvID/Preview Image: PickOne
+*OrderDependency: 295 AnySetup *EPIJ_APFPrvID
+*DefaultEPIJ_APFPrvID: 7
+*EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*nl.Translation EPIJ_APFPrvID/Preview Image: ""
+*fr.Translation EPIJ_APFPrvID/Preview Image: ""
+*de.Translation EPIJ_APFPrvID/Preview Image: ""
+*it.Translation EPIJ_APFPrvID/Preview Image: ""
+*ja.Translation EPIJ_APFPrvID/Preview Image: ""
+*pt.Translation EPIJ_APFPrvID/Preview Image: ""
+*pt_PT.Translation EPIJ_APFPrvID/Preview Image: ""
+*es.Translation EPIJ_APFPrvID/Preview Image: ""
+*da.Translation EPIJ_APFPrvID/Preview Image: ""
+*fi.Translation EPIJ_APFPrvID/Preview Image: ""
+*no.Translation EPIJ_APFPrvID/Preview Image: ""
+*sv.Translation EPIJ_APFPrvID/Preview Image: ""
+*pl.Translation EPIJ_APFPrvID/Preview Image: ""
+*ko.Translation EPIJ_APFPrvID/Preview Image: ""
+*zh_TW.Translation EPIJ_APFPrvID/Preview Image: ""
+*zh_CN.Translation EPIJ_APFPrvID/Preview Image: ""
+*ru.Translation EPIJ_APFPrvID/Preview Image: ""
+*ar.Translation EPIJ_APFPrvID/Preview Image: ""
+*th.Translation EPIJ_APFPrvID/Preview Image: ""
+*tr.Translation EPIJ_APFPrvID/Preview Image: ""
+*nl.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*nl.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*nl.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*nl.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*nl.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*nl.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*fr.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*fr.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*fr.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*fr.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*fr.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*fr.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*de.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*de.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*de.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*de.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*de.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*de.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*it.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*it.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*it.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*it.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*it.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*it.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*ja.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*ja.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*ja.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*ja.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*ja.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*ja.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*pt.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*pt.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*pt.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*pt.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*pt.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*pt.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*pt_PT.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*pt_PT.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*pt_PT.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*pt_PT.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*pt_PT.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*pt_PT.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*es.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*es.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*es.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*es.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*es.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*es.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*da.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*da.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*da.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*da.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*da.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*da.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*fi.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*fi.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*fi.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*fi.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*fi.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*fi.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*no.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*no.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*no.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*no.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*no.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*no.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*sv.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*sv.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*sv.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*sv.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*sv.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*sv.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*pl.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*pl.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*pl.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*pl.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*pl.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*pl.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*ko.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*ko.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*ko.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*ko.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*ko.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*ko.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*zh_TW.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*zh_TW.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*zh_TW.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*zh_TW.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*zh_TW.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*zh_TW.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*zh_CN.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*zh_CN.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*zh_CN.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*zh_CN.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*zh_CN.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*zh_CN.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*ru.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*ru.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*ru.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*ru.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*ru.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*ru.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*ar.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*ar.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*ar.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*ar.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*ar.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*ar.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*th.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*th.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*th.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*th.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*th.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*th.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*tr.EPIJ_APFPrvID 7/APF07-Auto-W.png: ""
+*tr.EPIJ_APFPrvID 11/APF07-AutoPortrait.png: ""
+*tr.EPIJ_APFPrvID 12/APF07-Scenery-W.png: ""
+*tr.EPIJ_APFPrvID 13/APF07-Night-W.png: ""
+*tr.EPIJ_APFPrvID 4/APF07-Sepia-W.png: ""
+*tr.EPIJ_APFPrvID 8/APF07-StdMono-W.png: ""
+*CloseUI: *EPIJ_APFPrvID
+
+*EPIJPaneInfo EPIJ_Pane_PrintSetting/@@EPIJ_Pane_PrintSetting: "PrintSetting_C210.nib"
+*EPIJPaneInfo EPIJ_Pane_ColorManagement/@@EPIJ_Pane_ColorManagement: "ColorManagement_C200.nib"
+
+*EPIJPICADSDefaultPaperSource: "2"
+
+*EPIJPresetKeywordOrder EPIJAutoPreset/: "*EPIJ_Medi *EPIJ_Ink_ *EPIJ_Mode *EPIJ_APri"
+
+*EPIJPreset EPIJAutoPreset,0,0,0,0/@@High: "
+EPIJ_Hori 0
+EPIJ_Qual 305
+EPIJColorControlPreset"
+
+*EPIJPreset EPIJAutoPreset,0,0,0,1/@@Standard: "
+EPIJ_Hori 0
+EPIJ_Qual 303
+EPIJColorControlPreset"
+
+*EPIJPreset EPIJAutoPreset,0,1,0,0/@@High: "
+EPIJ_Hori 0
+EPIJ_Qual 305
+EPIJColorControlPreset"
+
+*EPIJPreset EPIJAutoPreset,0,1,0,1/@@Standard: "
+EPIJ_Hori 0
+EPIJ_Qual 303
+EPIJColorControlPreset"
+
+*EPIJPresetKeywordOrder EPIJAMMPreset/: "*EPIJ_OSColMat"
+
+*EPIJPreset EPIJAMMPreset,2/: "
+EPIJ_Ink_ 1
+EPIJ_CCor 12
+EPIJ_CMat 3"
+
+*EPIJPresetKeywordOrder EPIJColorControlPreset/: "*EPIJ_Medi *EPIJ_Ink_ *EPIJ_Mode *EPIJ_APri *EPIJClientInfo"
+
+*EPIJPreset EPIJColorControlPreset,0,0,0,0,2/: "
+EPIJ_ACam 0
+EPIJ_AFil 0
+EPIJ_AGai 1
+EPIJ_ATon 7
+EPIJ_Brit 0
+EPIJ_CCor 12
+EPIJ_CMat 0
+EPIJ_Cont 0
+EPIJ_Cyan 0
+EPIJ_DCCT 0
+EPIJ_ERGB 0
+EPIJ_Gamm 0
+EPIJ_Mage 0
+EPIJ_Satu 0
+EPIJ_UEpL 0
+EPIJ_Yell 0"
+
+*EPIJPreset EPIJColorControlPreset,0,0,0,1,2/: "
+EPIJ_ACam 0
+EPIJ_AFil 0
+EPIJ_AGai 1
+EPIJ_ATon 7
+EPIJ_Brit 0
+EPIJ_CCor 12
+EPIJ_CMat 0
+EPIJ_Cont 0
+EPIJ_Cyan 0
+EPIJ_DCCT 0
+EPIJ_ERGB 0
+EPIJ_Gamm 0
+EPIJ_Mage 0
+EPIJ_Satu 0
+EPIJ_UEpL 0
+EPIJ_Yell 0"
+
+*EPIJPreset EPIJColorControlPreset,0,1,0,0,2/: "
+EPIJ_ACam 0
+EPIJ_AFil 0
+EPIJ_AGai 1
+EPIJ_ATon 7
+EPIJ_Brit 0
+EPIJ_CCor 12
+EPIJ_CMat 0
+EPIJ_Cont 0
+EPIJ_Cyan 0
+EPIJ_DCCT 0
+EPIJ_ERGB 0
+EPIJ_Gamm 0
+EPIJ_Mage 0
+EPIJ_Satu 0
+EPIJ_UEpL 0
+EPIJ_Yell 0
+EPIJAMMPreset"
+
+*EPIJPreset EPIJColorControlPreset,0,1,0,1,2/: "
+EPIJ_ACam 0
+EPIJ_AFil 0
+EPIJ_AGai 1
+EPIJ_ATon 7
+EPIJ_Brit 0
+EPIJ_CCor 12
+EPIJ_CMat 0
+EPIJ_Cont 0
+EPIJ_Cyan 0
+EPIJ_DCCT 0
+EPIJ_ERGB 0
+EPIJ_Gamm 0
+EPIJ_Mage 0
+EPIJ_Satu 0
+EPIJ_UEpL 0
+EPIJ_Yell 0
+EPIJAMMPreset"
+
+*EPIJUIConstraint: *EPIJClientInfo 1|*EPIJ_Mode 0
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_CMat 1
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_CMat 3
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_CCor
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_CCor
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_CCor
+
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Gamm
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Gamm
+*EPIJUIConstraint: *EPIJ_CCor 12|*EPIJ_Gamm 1
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_UEpL 1
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_UEpL 2
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_UEpL 1
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_UEpL 2
+*EPIJUIConstraint: *EPIJ_ERGB 1|*EPIJ_UEpL 1
+*EPIJUIConstraint: *EPIJ_ERGB 1|*EPIJ_UEpL 2
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_ERGB 1
+
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Brit
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Brit
+
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Cont
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Cont
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_Satu
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Satu
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Satu
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_Cyan
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Cyan
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Cyan
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_Mage
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Mage
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Mage
+
+*EPIJUIConstraint: *EPIJ_Ink_ 0|*EPIJ_Yell
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_Yell
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_Yell
+
+*EPIJUIConstraint: *EPIJ_CMat 0|*EPIJ_ATon
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_ATon
+
+*EPIJUIConstraint: *EPIJ_CMat 1|*EPIJ_AFil 0
+*EPIJUIConstraint: *EPIJ_CMat 0|*EPIJ_AFil
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_AFil
+
+*EPIJUIConstraint: *EPIJ_CMat 0|*EPIJ_AGai
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_AGai
+*EPIJUIConstraint: *EPIJ_AFil 0|*EPIJ_AGai 2
+
+*EPIJUIConstraint: *EPIJ_CMat 0|*EPIJ_ACam
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_ACam
+*EPIJUIConstraint: *EPIJ_ATon 8|*EPIJ_ACam 1
+
+*EPIJUIConstraint: *EPIJ_CMat 0|*EPIJ_DCCT
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_DCCT
+*EPIJUIConstraint: *EPIJ_ACam 0|*EPIJ_DCCT 1
+
+*EPIJUIConstraint: *EPIJ_CMat 0|*EPIJ_APFPrvID
+*EPIJUIConstraint: *EPIJ_CMat 3|*EPIJ_APFPrvID
+
+*EPIJLinkValue: *EPIJ_PSrc |*EPIJ_Mode 0|*EPIJAutoPreset
+*EPIJLinkValue: *EPIJ_PSrc |*EPIJ_Mode 1|*EPIJManualPreset
+
+*EPIJLinkValue: *EPIJ_Medi |*EPIJ_Mode 1 *EPIJ_Manu 0|*EPIJ_Mode 0
+*EPIJLinkValue: *EPIJ_Medi 0|*EPIJ_Mode 0 *EPIJ_Ink_ 1|*EPIJ_APri 1
+*EPIJLinkValue: *EPIJ_Medi 0|*EPIJ_Mode 0 *EPIJ_Ink_ 0|*EPIJ_APri 1
+*EPIJLinkValue: *EPIJ_Medi 0|*EPIJ_Mode 3 *EPIJ_Ink_ 1|*EPIJ_Qual 303
+*EPIJLinkValue: *EPIJ_Medi 0|*EPIJ_Mode 3 *EPIJ_Ink_ 0|*EPIJ_Qual 303
+*EPIJLinkValue: *EPIJ_Medi 0|*EPIJ_Mode 3|*EPIJ_Hori 0
+
+*EPIJLinkValue: *EPIJ_Ink_ |*EPIJ_Mode 1 *EPIJ_Manu 0|*EPIJ_Mode 0
+*EPIJLinkValue: *EPIJ_Ink_ 0|*EPIJ_Mode 3|*EPIJ_CMat 0
+*EPIJLinkValue: *EPIJ_Ink_ 0||*EPIJ_CCor 12
+*EPIJLinkValue: *EPIJ_Ink_ 1|*EPIJ_Mode 0 *EPIJ_Medi 0|*EPIJ_APri 1
+*EPIJLinkValue: *EPIJ_Ink_ 0|*EPIJ_Mode 0 *EPIJ_Medi 0|*EPIJ_APri 1
+
+*EPIJLinkValue: *EPIJ_Mode 1||*EPIJ_APri 0
+*EPIJLinkValue: *EPIJ_Mode 3||*EPIJ_APri 0
+*EPIJLinkValue: *EPIJ_Mode ||*EPIJ_Manu 0
+*EPIJLinkValue: *EPIJ_Mode 0|*EPIJ_Ink_ 1 *EPIJ_Medi 0|*EPIJ_APri 1
+*EPIJLinkValue: *EPIJ_Mode 0|*EPIJ_Ink_ 0 *EPIJ_Medi 0|*EPIJ_APri 1
+
+*EPIJLinkValue: *EPIJ_APri |*EPIJ_Mode 0|*EPIJ_Manu 0
+*EPIJLinkValue: *EPIJ_APri ||*EPIJAutoPreset
+
+*EPIJLinkValue: *EPIJ_Manu |*EPIJ_Mode 1|*EPIJ_APri 0
+*EPIJLinkValue: *EPIJ_Manu ||*EPIJManualPreset
+
+*EPIJLinkValue: *EPIJ_CMat 1||*EPIJ_CCor 12
+*EPIJLinkValue: *EPIJ_CMat 3||*EPIJ_CCor 12
+
+*EPIJLinkValue: *EPIJClientInfo 0||*EPIJAMMPreset
+*EPIJLinkValue: *EPIJ_OSColMat |*EPIJ_Mode 0|*EPIJAutoPreset
+
+*EPIJConstrainedValue: *EPIJ_Mode 1|*EPIJ_Manu 0|*EPIJ_Mode 0
+
+*EPIJConstrainedValue: *EPIJ_Ink_ 1 *EPIJ_Medi 0 *EPIJ_Mode 3|*EPIJ_Qual 303|
+*EPIJConstrainedValue: *EPIJ_Ink_ 0 *EPIJ_Medi 0 *EPIJ_Mode 3|*EPIJ_Qual 303|
+
+*EPIJConditionValue EPIJ_PrStgAlK/: "
+|0"
+
+*EPIJConditionValue EPIJ_APFPrvID/: "
+*EPIJ_ATon 7|7
+*EPIJ_ATon 11|11
+*EPIJ_ATon 12|12
+*EPIJ_ATon 13|13
+*EPIJ_ATon 4|4
+*EPIJ_ATon 8|8"
+
+*EPIJConditionValue EPIJ_OSCMProf/: "
+*EPIJ_HdofClSp 1|3
+*EPIJClientInfo 2|3
+*EPIJ_Ink_ 0|1
+*EPIJ_CMat 1|1
+*EPIJ_CMat 3|1
+*EPIJ_UEpL 1|2
+*EPIJ_UEpL 2|2
+*EPIJ_ERGB 1|2
+*EPIJ_CCor 6|2
+|1
+|0"
+
+*EPIJConditionValue EPIJProfileSpec/: "
+*EPIJ_Ink_ 0|0
+*EPIJ_Medi 0|1"
+
+*EPIJConditionValue ColorModel/: "
+*EPIJ_Ink_ 1|RGB
+*EPIJ_Ink_ 0|Mono"
+
+*EPIJConditionValue MediaType/: "
+*EPIJ_Medi 0|0"
+
+*EPIJConditionValue Resolution/: "
+*EPIJ_Ink_ 1 *EPIJ_Medi 0 *EPIJ_Qual 303|360x360dpi
+*EPIJ_Ink_ 1 *EPIJ_Medi 0 *EPIJ_Qual 304|360x360dpi
+*EPIJ_Ink_ 1 *EPIJ_Medi 0 *EPIJ_Qual 305|720x720dpi
+*EPIJ_Ink_ 1 *EPIJ_Medi 0 *EPIJ_Qual 306|720x720dpi
+*EPIJ_Ink_ 0 *EPIJ_Medi 0 *EPIJ_Qual 303|360x360dpi
+*EPIJ_Ink_ 0 *EPIJ_Medi 0 *EPIJ_Qual 304|360x360dpi
+*EPIJ_Ink_ 0 *EPIJ_Medi 0 *EPIJ_Qual 305|720x720dpi
+*EPIJ_Ink_ 0 *EPIJ_Medi 0 *EPIJ_Qual 306|720x720dpi"
+
+*EPIJHelpTag EPIJ_CMat,1/@@HelpTag,EPIJ_CMat,1: ""
+
+*EPIJUICurrentValueFix: *EPIJ_Mode 0|*EPIJ_Hori *EPIJ_Qual
+
+*EPIJCustomPaperSizeRange: "252.20 360.00 612.00 3168.00"
+
+*EPIJCustomPaperPaperSourceInfo 1/: ""
+
+*% Last edited on 13/09/13 8.05
+*% Rev 612120913
+*% PRev 000D060913|060913

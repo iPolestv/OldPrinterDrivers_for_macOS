@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>versionCheckBundles</key>
+	<array>
+		<string>/InkjetPrinter2/Libraries/EPIJDataManager.framework</string>
+		<string>/InkjetPrinter2/Libraries/EPConvertManager.framework</string>
+		<string>/InkjetPrinter2/Libraries/EPIJOpener.framework</string>
+		<string>/InkjetPrinter2/Libraries/ESCPLib.framework</string>
+		<string>/InkjetPrinter2/Utility/UT4/Epson Printer Utility 4.app</string>
+		<string>/InkjetPrinter2/Utility/UT4/Libraries/UtilityCore4.framework</string>
+		<string>/InkjetPrinter2/Utility/UTL/Epson Printer Utility Lite.app</string>
+		<string>/InkjetPrinter2/Filter/rastertoescpII.app</string>
+		<string>/InkjetPrinter2/PDE/PDECPlugin01.plugin</string>
+	</array>
+</dict>
+</plist>

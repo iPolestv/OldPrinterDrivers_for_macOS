@@ -1,0 +1,35 @@
+[Header]
+FileType=1
+FileVersion=3.0
+Location=3
+
+
+[PicPresetList]
+999="PRESET_999"
+
+
+[PRESET_999]
+PresetID=999
+PresetName="A0+ OHP Photo Print"
+PresetType=3
+ColorSetting=1
+#if WIN32
+PaperID=604
+#else
+PaperID=56
+#endif
+#if WIN32
+MediaID=2
+#else
+MediaID=5
+#endif
+AutoCutMode=0
+RollPaperHeight=0
+Priority=20
+Bidirectional=3
+ColorManagementMode=1
+Source=1
+SourceOption=2,1
+#if WIN32
+ResourceOffset=0
+#endif

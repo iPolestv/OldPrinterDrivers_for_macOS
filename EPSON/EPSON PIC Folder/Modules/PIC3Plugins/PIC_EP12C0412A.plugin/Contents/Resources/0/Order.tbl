@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Source</string>
+	<string>Margins</string>
+	<string>SourceOption</string>
+	<string>Orientation</string>
+	<string>Page</string>
+	<string>Copies</string>
+	<string>Media</string>
+	<string>Ink</string>
+	<string>Quality</string>
+	<string>BiDirectional</string>
+	<string>ColorManagement</string>
+	<string>ColorManagementEx</string>
+	<string>AdjustNoMargins</string>
+	<string>RollLength</string>
+	<string>RollAutocut</string>
+	<string>Multipage</string>
+	<string>MultipageOption</string>
+</array>
+</plist>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CDCenterCoordinates</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>CDPrinterType</key>
+	<integer>0</integer>
+	<key>DriverPluginName</key>
+	<string>EP12C0412A</string>
+	<key>ExtensionLevel</key>
+	<integer>16</integer>
+	<key>InkSetType</key>
+	<integer>0</integer>
+	<key>InterfaceVersion</key>
+	<integer>2</integer>
+	<key>Message</key>
+	<array/>
+	<key>PICAPISupportLevel</key>
+	<integer>1</integer>
+	<key>PIMPrinterType</key>
+	<integer>2</integer>
+	<key>PresetRemoveBits</key>
+	<integer>0</integer>
+	<key>PrinterType</key>
+	<integer>1</integer>
+	<key>PrinterYear</key>
+	<integer>2012</integer>
+	<key>QualityRangeCount</key>
+	<integer>3</integer>
+	<key>RollAutocutBottom</key>
+	<integer>0</integer>
+	<key>RollAutocutTop</key>
+	<integer>0</integer>
+	<key>SupportLevel</key>
+	<integer>3</integer>
+</dict>
+</plist>

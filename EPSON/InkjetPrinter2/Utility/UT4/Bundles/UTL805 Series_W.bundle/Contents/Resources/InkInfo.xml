@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<InkInfo>
+	<Version>1.00</Version>
+	<InkInfo>
+		<RecommendedInkSet>
+			<InkSet Number="1">
+				<CartrigeCode>
+					<C_Code Number="1"/>
+					<C_Code Number="2"/>
+					<C_Code Number="3"/>
+					<C_Code Number="4"/>
+					<C_Code Number="5"/>
+					<C_Code Number="6"/>
+				</CartrigeCode>
+				<ColorName>
+					<C_Name Number="1">CY</C_Name>
+					<C_Name Number="2">MA</C_Name>
+					<C_Name Number="3">LM</C_Name>
+					<C_Name Number="4">LC</C_Name>
+					<C_Name Number="5">BK</C_Name>
+					<C_Name Number="6">YE</C_Name>
+				</ColorName>
+			</InkSet>
+		</RecommendedInkSet>
+	</InkInfo>
+</InkInfo>

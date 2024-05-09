@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>EPHelp</string>
+	<key>CFBundleHelpBookName</key>
+	<string>Epson_IJP_12C2_A</string>
+	<key>CFBundleHelpTOCFile</key>
+	<string>index.htm</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.epson.help.A.Epson_IJP_12C2_A</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Epson_IJP_12C2_A</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.00</string>
+	<key>CFBundleSignature</key>
+	<string>hbwr</string>
+	<key>CFBundleVersion</key>
+	<string>1.00</string>
+	<key>EPHelpCategory</key>
+	<string>A</string>
+</dict>
+</plist>
